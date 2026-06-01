@@ -182,13 +182,13 @@ Details: [`METHODOLOGY.md`](METHODOLOGY.md).
 
 ## Citation
 
-If you use this repository, please cite the associated article (update when published):
+If you use this repository, please cite the associated article (it will be updateed when published):
 
 ```bibtex
 @article{torabi2026uxai,
   title   = {Evolution of User Experience Research in AI-Powered Systems: A Bibliometric and Topic Modelling Analysis},
-  author  = {Torabi, Mahsa and others},
-  journal = {TBD},
+  author  = {Sangari, Mahmood and Torabi, Mahsa},
+  journal = {},
   year    = {2026},
   note    = {Code and data: \url{https://github.com/mahsatorabi/UX_AI_systems}}
 }
@@ -205,5 +205,5 @@ If you use this repository, please cite the associated article (update when publ
 
 ## License
 
-- **Code** (`.py` files): MIT License — see repository license file if present.
+- **Code** (`.py` files): University of Birjand License.
 - **Data** (`data.csv`, derived CSVs): subject to Scopus/Elsevier terms; provided for reproducibility of the published study only.
