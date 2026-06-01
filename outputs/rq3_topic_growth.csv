@@ -1,0 +1,11 @@
+topic_id,topic_label,slope_recent_share_per_year,share_recent_mean
+8,"social, medium, social medium, emotional",0.02383910085773496,0.12780549817805262
+7,"agent, personality, intelligent agent, agent agent",0.013697131026323977,0.0645446332313624
+0,"usability, evaluation, software, development",0.010825199645075658,0.27423953640332377
+6,"reality, vr, immersive, environment",0.00394952183772059,0.10146532977341362
+5,"robot, social robot, robotic, humanoid",-0.004530217884255211,0.028947781063500665
+1,"health, mental, mental health, care",-0.004861480824213806,0.07650461773692209
+9,"library, academic, academic library, management",-0.005966676525682804,0.02791318704261314
+4,"search, retrieval, query, knowledge",-0.006634131913635324,0.10751267123728435
+3,"student, education, educational, university",-0.01404219658878074,0.10451105387011128
+2,"customer, commerce, marketing, satisfaction",-0.0162762496302873,0.08655569146341606

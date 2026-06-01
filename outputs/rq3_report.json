@@ -1,0 +1,103 @@
+{
+  "n_documents": 3714,
+  "year_max": 2026,
+  "recent_years": [
+    2024,
+    2025,
+    2026
+  ],
+  "top_emerging_terms": [
+    "retrieval",
+    "multimodal",
+    "education",
+    "query",
+    "privacy",
+    "personalization",
+    "adaptive",
+    "vr",
+    "transform",
+    "trust",
+    "vision",
+    "personalized",
+    "rag",
+    "emphasize",
+    "advancement",
+    "key",
+    "video",
+    "capability",
+    "search",
+    "reality"
+  ],
+  "top_bursty_phrases": [
+    "rag",
+    "retrieval",
+    "multimodal",
+    "vision",
+    "gemini",
+    "alignment",
+    "traffic",
+    "shape",
+    "agentic",
+    "align",
+    "latency",
+    "retrieval rag",
+    "llama",
+    "hallucination",
+    "gen",
+    "predictive",
+    "modal",
+    "workflow",
+    "bridge",
+    "actionable"
+  ],
+  "top_growing_topics": [
+    {
+      "topic_id": 8,
+      "topic_label": "social, medium, social medium, emotional",
+      "slope_recent_share_per_year": 0.02383910085773496,
+      "share_recent_mean": 0.12780549817805262
+    },
+    {
+      "topic_id": 7,
+      "topic_label": "agent, personality, intelligent agent, agent agent",
+      "slope_recent_share_per_year": 0.013697131026323977,
+      "share_recent_mean": 0.0645446332313624
+    },
+    {
+      "topic_id": 0,
+      "topic_label": "usability, evaluation, software, development",
+      "slope_recent_share_per_year": 0.010825199645075658,
+      "share_recent_mean": 0.27423953640332377
+    },
+    {
+      "topic_id": 6,
+      "topic_label": "reality, vr, immersive, environment",
+      "slope_recent_share_per_year": 0.00394952183772059,
+      "share_recent_mean": 0.10146532977341362
+    },
+    {
+      "topic_id": 5,
+      "topic_label": "robot, social robot, robotic, humanoid",
+      "slope_recent_share_per_year": -0.004530217884255211,
+      "share_recent_mean": 0.028947781063500665
+    },
+    {
+      "topic_id": 1,
+      "topic_label": "health, mental, mental health, care",
+      "slope_recent_share_per_year": -0.004861480824213806,
+      "share_recent_mean": 0.07650461773692209
+    },
+    {
+      "topic_id": 9,
+      "topic_label": "library, academic, academic library, management",
+      "slope_recent_share_per_year": -0.005966676525682804,
+      "share_recent_mean": 0.02791318704261314
+    },
+    {
+      "topic_id": 4,
+      "topic_label": "search, retrieval, query, knowledge",
+      "slope_recent_share_per_year": -0.006634131913635324,
+      "share_recent_mean": 0.10751267123728435
+    }
+  ]
+}

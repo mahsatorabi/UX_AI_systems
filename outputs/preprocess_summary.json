@@ -1,0 +1,15 @@
+{
+  "n_source_records": 3721,
+  "n_excluded_no_abstract": 7,
+  "n_documents_exported": 3714,
+  "limit_applied": null,
+  "n_documents": 3714,
+  "n_english_spacy": 3664,
+  "n_fallback": 50,
+  "mean_tokens": 165.13974151857835,
+  "median_tokens": 159.0,
+  "n_short_docs": 0,
+  "language_counts": {
+    "unknown": 3714
+  }
+}

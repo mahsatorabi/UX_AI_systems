@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Office / local drafts (not for public repo)
+*.docx
+*.doc
+*.pptx
+*.xlsx
+~$*
+~WRL*
+*.tmp
+
+# Local PDFs (contracts, drafts — keep out of GitHub)
+*.pdf
+!outputs/figures/*.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Optional: large token file (regenerate via preprocess.py)
+# outputs/corpus_tokens.jsonl

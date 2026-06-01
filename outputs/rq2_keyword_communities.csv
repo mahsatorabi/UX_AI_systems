@@ -1,0 +1,411 @@
+keyword,freq,community
+design-process,19,324
+semantics,129,330
+forestry,8,2
+augmented reality (ar),9,115
+creativity,14,317
+personalization,65,162
+workflow,10,6
+persona,14,7
+comparative analyzes,11,8
+facial expressions,8,352
+tourism industry,8,367
+through the lens,8,11
+randomized controlled trial (topic),8,176
+animation,15,324
+transformers,11,158
+object detection,10,202
+aged,21,176
+users' satisfactions,67,162
+simulation,16,176
+educational robots,14,324
+differential privacy,13,20
+algorithmics,8,21
+social media platforms,8,162
+health care delivery,10,176
+customer services,12,162
+knowledge management,47,330
+behavior change,16,176
+health literacy,9,27
+behavioral intention,9,28
+innovative approaches,12,29
+long short-term memory,14,162
+cosine similarity,8,31
+social support,11,176
+older adults,23,33
+population statistics,8,34
+social media,51,176
+robotics,13,176
+immersive environment,8,37
+transformer modeling,17,330
+historic preservation,10,234
+middle aged,29,176
+social networking (online),44,162
+economics,8,42
+context- awareness,9,43
+abstracting,8,44
+personnel,9,45
+ontology,11,172
+nutrition,12,47
+human-in-the-loop,10,48
+aigc,9,49
+personalized medicine,14,176
+humans-robot interactions,41,334
+visual communication,12,52
+education computing,80,324
+evaluation metrics,14,54
+contextual understanding,10,55
+marketplaces,36,162
+internet of things,26,162
+purchasing,19,162
+telemedicine,17,176
+professional aspects,13,252
+mixed reality,33,115
+reinforcement learnings,41,330
+humans,124,176
+knowledge graph,28,330
+vehicles,11,65
+innovation,13,66
+risk perception,11,324
+reliability,21,176
+translation (languages),17,330
+iot,14,162
+interview,12,176
+user's preferences,41,330
+intelligent agents,100,155
+cost reduction,9,162
+emotion detection,8,352
+taxonomies,10,76
+api,8,77
+anomaly detection,10,78
+algorithm,9,176
+electroencephalography,10,80
+blockchain,14,301
+fairness,9,82
+collaborative filtering,10,83
+focus groups,8,84
+human-ai collaboration,30,85
+in contexts,10,330
+physical activity,12,176
+end-users,24,88
+gamification,22,324
+metaverses,23,104
+electronic money,12,162
+software-systems,9,92
+knowledge,8,176
+privacy,14,176
+emotion,33,176
+daily lives,27,324
+innovative solutions,8,97
+affective computing,12,98
+logistic regression,9,162
+eye tracking,11,289
+self-management,8,101
+software testing,18,102
+investments,11,162
+metaverse,22,104
+marketing,12,162
+embeddings,31,330
+university students,12,324
+adult,93,176
+philosophical aspects,8,109
+cnn,10,232
+microsoft,15,330
+diseases,19,176
+role playing,8,113
+task-oriented,11,114
+augmented reality,73,115
+male,97,176
+storytelling,9,117
+metadata,35,330
+leisure industry,8,367
+knowledge representation,8,120
+perception,21,176
+life cycle,13,122
+ecosystems,16,123
+customers interactions,20,162
+cyber security,13,195
+ethical considerations,15,126
+knowledge graphs,27,330
+electronic commerce,82,162
+psychology,25,176
+optimization,18,162
+avatar,13,176
+self concept,9,176
+co-creation,26,317
+teaching,96,324
+end to end,9,135
+teachers',13,324
+anxiety,17,176
+property,10,138
+tourism sectors,8,367
+e- commerces,73,162
+serious games,8,141
+commerce,38,162
+authentication,8,143
+predictive analytics,28,162
+software prototyping,18,145
+gpt-4,11,146
+comprehensive evaluation,10,330
+medical informatics,8,176
+young adult,31,176
+follow up,18,176
+real-world,30,330
+cultural heritages,23,234
+k-means clustering,8,153
+intelligent buildings,11,162
+autonomous agents,25,155
+js,8,162
+healthcare,19,176
+transformer,15,158
+child,8,176
+personality traits,17,160
+counseling,8,176
+sales,197,162
+usability testing,29,176
+domain specific,22,330
+knowledge transfer,9,330
+anthropomorphism,27,166
+statistical tests,18,330
+finance,10,168
+langchain,16,330
+museums,17,234
+attention mechanisms,9,171
+ontology's,8,172
+multi-modal,91,330
+large-scales,23,330
+training,12,176
+female,103,176
+python,12,177
+open source software,22,330
+copyrights,9,179
+depression,19,176
+technological innovation,8,181
+emotional support,8,176
+ergonomics,17,183
+automation,87,162
+smart phones,13,336
+model-driven,8,330
+social robots,29,334
+random forests,10,162
+condition,26,189
+health care,66,176
+usability,82,176
+patient satisfaction,12,176
+bert,19,330
+medical computing,23,176
+cybersecurity,12,195
+websites,57,162
+cognitive load,8,397
+intelligent tutoring,8,324
+hotels,8,199
+cognition,12,176
+health promotion,8,176
+object recognition,8,202
+search engines,129,330
+alignment,8,204
+clinical effectiveness,8,176
+mental health,110,176
+accessibility,34,207
+google+,37,330
+semi structured interview,19,176
+interpersonal communication,37,176
+product development,11,211
+least squares approximations,16,162
+regulatory compliance,9,213
+memory architecture,10,155
+air navigation,9,215
+operational efficiencies,19,162
+psychoeducation,10,176
+university,10,176
+convolution,8,219
+health care personnel,15,176
+marketing strategy,10,162
+ethics,12,222
+electronic health records,8,176
+ui designs,11,224
+software,12,176
+petroleum reservoir evaluation,8,226
+optimisations,31,162
+codegeneration,11,244
+perceived usefulness,13,229
+personality,19,176
+diagnosis,41,176
+lstm,13,232
+satisfaction,30,176
+cultural heritage,20,234
+cognitive behavioral therapy,11,176
+education,44,324
+state of the art,22,330
+visually impaired,10,238
+classification (of information),27,330
+matchings,9,240
+social presence,23,241
+visualization,40,324
+question answering,51,330
+codes (symbols),38,244
+sustainable development,32,367
+randomized controlled trial,14,176
+industry 4.0,9,247
+semi structured interviews,9,248
+program processors,10,249
+continuance intention,9,250
+emotional engagements,8,251
+employment,17,252
+adolescent,22,176
+machine-learning,167,162
+public relations,36,162
+humaninteraction,12,256
+student perceptions,8,324
+social interactions,17,258
+automobile drivers,8,259
+crowdsourcing,12,260
+project management,10,261
+microrobots,16,334
+forecasting,26,330
+e-commerce,51,162
+student,12,176
+mapping,15,266
+wellbeing,18,176
+intent recognition,14,162
+diffusion,11,269
+user-centred,38,176
+multi-turn,14,271
+procedures,43,176
+budget control,10,273
+interactivity,13,274
+patient education,12,176
+banking,20,162
+therapy,24,176
+fintech,12,278
+commerce platforms,19,162
+extended reality,12,115
+competition,11,162
+'current,92,330
+internet,13,176
+domain knowledge,12,284
+performances evaluation,8,285
+emotions,14,176
+library services,12,360
+well being,23,176
+eye-tracking,8,289
+linguistics,25,324
+user's intentions,8,291
+usability evaluation,12,292
+benchmarking,45,176
+intellectual property core,8,294
+educational institutions,8,295
+evaluation,27,176
+simple++,18,297
+navigation,11,298
+context-aware,37,330
+ehealth,12,176
+block-chain,16,301
+workers',12,302
+customer-service,86,162
+laws and legislation,10,162
+text-to-speech,12,305
+costs,10,306
+case-studies,59,162
+gemini,9,308
+motivation,21,176
+semantics understanding,8,330
+universities,8,176
+offline,9,312
+health education,11,176
+personalizations,104,162
+robots,11,315
+users' acceptance,8,316
+creatives,41,317
+fine-tuning,21,330
+privacy concerns,15,319
+botnet,19,320
+exercise,8,176
+questionnaire,43,176
+covid-19,21,176
+students,165,324
+learn+,22,325
+neural-networks,23,162
+cost effectiveness,25,162
+problem-solving,9,344
+cold start problems,9,329
+computational linguistics,213,330
+customer loyalty,11,162
+consumer behavior,29,162
+human-centred designs,16,333
+intelligent robots,42,334
+arts computing,21,317
+smartphones,13,336
+risk assessment,19,337
+openai,8,338
+curricula,47,324
+heuristic evaluation,8,340
+telehealth,9,176
+user-generated,11,342
+telecommunication services,9,343
+problem solving,18,344
+customer support,25,162
+psychological well-being,13,176
+flow visualization,8,324
+emotion regulation,8,348
+model-based opc,74,330
+health informations,9,350
+customer satisfaction,48,162
+emotion recognition,32,352
+html,8,353
+critical thinking,10,354
+resource allocation,14,355
+outcome assessment,10,176
+human-centered computing,10,357
+customer care,8,162
+extraction,9,359
+libraries,15,360
+ethical aspects,28,162
+customisation,12,362
+personnel training,42,324
+higher education,30,324
+likert scale,12,176
+frequently asked questions,10,366
+tourism,48,367
+anthropomorphic robots,14,334
+decisions makings,37,162
+customers' satisfaction,33,162
+humanoid robot,10,334
+electronic health record,29,176
+architecture,13,373
+mental disease,11,176
+pre-training,8,330
+agents,14,155
+trust,43,176
+self care,9,176
+work-flows,41,155
+personalisation,9,162
+transparency,20,162
+computation theory,22,162
+smart homes,14,162
+health,9,176
+energy,8,385
+3d-modeling,10,386
+e-learning,106,324
+collaborative robots,11,334
+medical education,19,324
+academic libraries,8,390
+strategic planning,12,162
+psychology computing,9,352
+immersive,54,115
+industrial robots,8,334
+communication,35,176
+face recognition,11,352
+cognitive loads,17,397
+rag,20,398
+mhealth,41,176
+scalability,10,400
+cloud-based,8,401
+cutting edges,13,402
+mental disorders,9,176
+open-source,12,330
+user-centric,24,162
+empathy,24,176
+multimodal,11,330
+best practices,8,408
+topic modeling,12,409

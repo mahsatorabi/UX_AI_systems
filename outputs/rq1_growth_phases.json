@@ -1,0 +1,90 @@
+[
+  {
+    "start_year": 2006,
+    "end_year": 2017,
+    "slope_per_year": 0.5769230769231376,
+    "intercept": -1158.7307692308914,
+    "r2": 0.2122459480318991,
+    "n_years": 12,
+    "sum_pubs": 21,
+    "changepoint_years": [
+      2018,
+      2021,
+      2024
+    ],
+    "method_meta": {
+      "changepoint_years": [
+        2018,
+        2021,
+        2024
+      ],
+      "penalty_used": null
+    }
+  },
+  {
+    "start_year": 2018,
+    "end_year": 2020,
+    "slope_per_year": 22.499999999999112,
+    "intercept": -45378.499999998196,
+    "r2": 0.8479899497488108,
+    "n_years": 3,
+    "sum_pubs": 147,
+    "changepoint_years": [
+      2018,
+      2021,
+      2024
+    ],
+    "method_meta": {
+      "changepoint_years": [
+        2018,
+        2021,
+        2024
+      ],
+      "penalty_used": null
+    }
+  },
+  {
+    "start_year": 2021,
+    "end_year": 2023,
+    "slope_per_year": 79.99999999998279,
+    "intercept": -161597.33333329848,
+    "r2": 0.7406264465361205,
+    "n_years": 3,
+    "sum_pubs": 488,
+    "changepoint_years": [
+      2018,
+      2021,
+      2024
+    ],
+    "method_meta": {
+      "changepoint_years": [
+        2018,
+        2021,
+        2024
+      ],
+      "penalty_used": null
+    }
+  },
+  {
+    "start_year": 2024,
+    "end_year": 2026,
+    "slope_per_year": -153.50000000000867,
+    "intercept": 311856.833333351,
+    "r2": 0.0849658570358176,
+    "n_years": 3,
+    "sum_pubs": 3058,
+    "changepoint_years": [
+      2018,
+      2021,
+      2024
+    ],
+    "method_meta": {
+      "changepoint_years": [
+        2018,
+        2021,
+        2024
+      ],
+      "penalty_used": null
+    }
+  }
+]

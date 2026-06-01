@@ -1,0 +1,931 @@
+source,target,weight
+computational linguistics,personnel training,5
+computational linguistics,large-scales,7
+augmented reality,object detection,4
+curricula,educational robots,4
+curricula,teaching,31
+educational robots,teaching,9
+machine-learning,teaching,8
+emotion detection,emotion recognition,7
+emotion recognition,psychology computing,7
+adolescent,adult,17
+adolescent,child,4
+adolescent,female,17
+adolescent,humans,13
+adolescent,male,17
+adolescent,psychology,7
+adolescent,young adult,12
+adult,child,5
+adult,communication,9
+adult,female,82
+adult,humans,56
+adult,interpersonal communication,12
+adult,male,78
+adult,psychology,15
+adult,therapy,6
+adult,trust,4
+adult,young adult,28
+child,female,4
+child,male,4
+communication,female,11
+communication,humans,27
+communication,interpersonal communication,30
+communication,male,10
+communication,therapy,4
+female,humans,69
+female,interpersonal communication,15
+female,male,93
+female,psychology,20
+female,therapy,10
+female,trust,5
+female,young adult,28
+humans,interpersonal communication,30
+humans,male,63
+humans,psychology,22
+humans,therapy,18
+humans,trust,4
+humans,young adult,24
+interpersonal communication,male,13
+interpersonal communication,therapy,5
+male,psychology,19
+male,therapy,10
+male,trust,5
+male,young adult,28
+psychology,therapy,6
+psychology,young adult,8
+behavior change,social media,4
+diagnosis,female,8
+diagnosis,humans,13
+diagnosis,male,6
+diagnosis,therapy,5
+humans,patient education,5
+e-learning,education computing,25
+e-learning,teaching,25
+education computing,teaching,36
+case-studies,internet of things,4
+e-learning,reinforcement learnings,4
+interview,questionnaire,4
+e-learning,machine-learning,15
+machine-learning,users' satisfactions,4
+diagnosis,procedures,5
+electronic health record,electronic health records,6
+electronic health record,female,6
+electronic health record,humans,7
+electronic health record,procedures,4
+electronic health records,female,5
+electronic health records,humans,5
+electronic health records,procedures,4
+female,procedures,24
+female,simulation,5
+female,usability,12
+humans,procedures,43
+humans,simulation,4
+humans,usability,9
+interpersonal communication,procedures,9
+interpersonal communication,usability,4
+procedures,therapy,5
+education computing,search engines,4
+education computing,students,51
+linguistics,students,4
+search engines,students,11
+students,usability,6
+personalizations,transparency,4
+adult,procedures,19
+adult,robotics,4
+collaborative robots,multi-modal,4
+humans,robotics,4
+male,procedures,18
+male,robotics,4
+daily lives,education computing,4
+daily lives,students,4
+education computing,student perceptions,4
+student perceptions,students,5
+animation,e-learning,4
+intelligent agents,semantics,5
+embeddings,semantics,8
+computation theory,tourism,4
+computational linguistics,semantics,24
+commerce platforms,e- commerces,19
+commerce platforms,e-commerce,7
+commerce platforms,electronic commerce,7
+e- commerces,e-commerce,31
+e- commerces,electronic commerce,36
+e- commerces,knowledge management,7
+e- commerces,semantics,7
+e-commerce,electronic commerce,23
+e-commerce,semantics,4
+electronic commerce,knowledge management,6
+electronic commerce,semantics,7
+knowledge management,knowledge transfer,4
+knowledge management,semantics,7
+semantics,semantics understanding,6
+diagnosis,mental health,6
+knowledge management,model-based opc,4
+optimisations,optimization,8
+ethical aspects,personalization,6
+ethical aspects,personalizations,7
+personalization,personalizations,49
+personalization,public relations,6
+personalization,sales,12
+personalizations,public relations,8
+personalizations,sales,30
+public relations,sales,32
+health care,machine-learning,6
+health care,medical computing,13
+humans,telemedicine,10
+cyber security,cybersecurity,10
+google+,search engines,6
+google+,students,4
+consumer behavior,sales,14
+adult,knowledge,7
+adult,universities,6
+adult,university,6
+female,knowledge,6
+female,universities,6
+female,university,6
+humans,universities,6
+humans,university,6
+knowledge,male,6
+male,universities,6
+male,university,6
+universities,university,7
+decisions makings,intelligent agents,6
+customer-service,personalizations,7
+customer-service,sales,49
+block-chain,blockchain,12
+adult,emotion,12
+adult,follow up,9
+adult,questionnaire,29
+adult,reliability,8
+emotion,questionnaire,4
+follow up,questionnaire,4
+questionnaire,reliability,7
+multi-modal,multimodal,8
+benchmarking,computational linguistics,9
+computational linguistics,sales,5
+purchasing,sales,13
+agents,intelligent agents,5
+trust,usability,5
+covid-19,female,4
+covid-19,humans,6
+procedures,psychology,10
+curricula,e-learning,15
+e-learning,gamification,5
+e-learning,personalizations,4
+augmented reality,cultural heritages,5
+augmented reality,extended reality,4
+augmented reality,intelligent agents,7
+augmented reality,model-based opc,4
+augmented reality,multi-modal,4
+augmented reality,search engines,6
+augmented reality,semantics,5
+intelligent agents,model-based opc,6
+intelligent agents,search engines,8
+model-based opc,multi-modal,5
+model-based opc,search engines,5
+model-based opc,semantics,6
+multi-modal,search engines,5
+multi-modal,semantics,8
+search engines,semantics,24
+social media,social networking (online),16
+usability,usability testing,7
+emotion,emotions,12
+emotion,humans,11
+emotions,humans,7
+humans,social media,8
+diagnosis,diseases,5
+diagnosis,medical computing,7
+personalizations,search engines,5
+autonomous agents,intelligent agents,17
+benchmarking,semantics,4
+creatives,work-flows,7
+anthropomorphic robots,humanoid robot,10
+anthropomorphic robots,humans-robot interactions,8
+anthropomorphic robots,social robots,6
+collaborative robots,humans-robot interactions,9
+collaborative robots,social robots,5
+humanoid robot,humans-robot interactions,5
+humanoid robot,social robots,4
+humans-robot interactions,social robots,14
+model-based opc,personalizations,6
+personalisation,personalizations,6
+adult,aged,17
+adult,behavior change,6
+adult,benchmarking,6
+adult,empathy,6
+adult,health care personnel,7
+adult,semi structured interview,15
+aged,female,20
+aged,health care personnel,4
+aged,male,19
+aged,semi structured interview,4
+behavior change,female,5
+behavior change,male,5
+benchmarking,empathy,6
+benchmarking,female,4
+benchmarking,male,4
+emotion,empathy,4
+emotion,female,8
+emotion,male,10
+empathy,female,5
+empathy,male,5
+female,health care personnel,9
+female,semi structured interview,16
+health care personnel,male,9
+male,semi structured interview,15
+knowledge graph,knowledge graphs,17
+knowledge graph,question answering,6
+knowledge graph,search engines,4
+knowledge graphs,question answering,10
+question answering,search engines,8
+humans,reliability,6
+machine-learning,mental health,7
+case-studies,teaching,4
+design-process,students,6
+humans-robot interactions,intelligent robots,15
+intelligent robots,teaching,4
+professional aspects,students,5
+students,teaching,49
+commerce,public relations,6
+commerce,sales,21
+commerce,strategic planning,4
+sales,strategic planning,9
+adult,likert scale,7
+adult,motivation,4
+adult,personality,4
+behavior change,interpersonal communication,5
+female,likert scale,5
+female,questionnaire,33
+interpersonal communication,questionnaire,5
+likert scale,male,5
+likert scale,questionnaire,5
+male,personality,4
+male,questionnaire,29
+large-scales,semantics,4
+knowledge management,search engines,6
+machine-learning,search engines,8
+machine-learning,semantics,8
+humans,mental disease,7
+humans,mental disorders,5
+humans,mental health,23
+mental disease,mental disorders,5
+mental disease,mental health,11
+mental disorders,mental health,9
+mental health,therapy,7
+consumer behavior,electronic commerce,5
+embeddings,search engines,5
+long short-term memory,machine-learning,5
+machine-learning,social media,4
+machine-learning,optimisations,5
+education computing,higher education,5
+social media platforms,social networking (online),5
+curricula,education computing,18
+curricula,students,34
+e-learning,students,30
+automation,semantics,6
+bert,computational linguistics,5
+computational linguistics,social networking (online),5
+customers' satisfaction,least squares approximations,7
+customers' satisfaction,sales,24
+least squares approximations,sales,9
+education computing,semantics,7
+benchmarking,search engines,5
+cultural heritage,cultural heritages,14
+cultural heritage,historic preservation,4
+cultural heritage,museums,4
+cultural heritages,historic preservation,6
+cultural heritages,museums,5
+automation,intelligent buildings,10
+automation,sales,9
+automation,smart homes,10
+commerce,consumer behavior,4
+intelligent buildings,smart homes,6
+mhealth,telemedicine,4
+computational linguistics,real-world,6
+metaverse,metaverses,17
+students,university students,7
+intelligent agents,teaching,7
+customer-service,e- commerces,11
+customer-service,electronic commerce,8
+e- commerces,sales,25
+electronic commerce,sales,37
+knowledge graphs,knowledge management,5
+knowledge management,sales,5
+automation,personalization,6
+automation,personalizations,5
+personalizations,semantics,5
+health care,healthcare,7
+health care,personalizations,5
+logistic regression,machine-learning,5
+machine-learning,personalizations,12
+case-studies,customer-service,4
+case-studies,sales,10
+cost reduction,sales,4
+customer-service,customers interactions,4
+customers interactions,sales,15
+operational efficiencies,sales,8
+adult,cognition,6
+adult,mental health,21
+cognition,emotion,5
+cognition,female,4
+cognition,male,6
+emotion,mental health,7
+female,mental health,20
+male,mental health,20
+sustainable development,tourism,5
+intelligent agents,work-flows,6
+user-centric,users' satisfactions,4
+eye tracking,eye-tracking,5
+personnel training,teaching,11
+context-aware,mixed reality,4
+adult,emotions,5
+emotions,female,4
+emotions,male,5
+adolescent,depression,7
+adolescent,mental health,9
+adolescent,questionnaire,5
+adolescent,semi structured interview,4
+adult,anxiety,6
+adult,counseling,6
+adult,depression,12
+adult,mhealth,4
+adult,physical activity,6
+adult,psychological well-being,9
+adult,simulation,4
+adult,training,4
+adult,wellbeing,4
+anxiety,depression,10
+anxiety,mental health,12
+anxiety,questionnaire,4
+depression,follow up,5
+depression,mental health,16
+depression,questionnaire,5
+depression,semi structured interview,4
+follow up,mental health,5
+follow up,semi structured interview,4
+mental health,mhealth,12
+mental health,physical activity,4
+mental health,psychological well-being,7
+mental health,questionnaire,7
+mental health,semi structured interview,8
+mental health,wellbeing,5
+psychological well-being,questionnaire,4
+psychological well-being,semi structured interview,5
+questionnaire,semi structured interview,8
+questionnaire,training,4
+simulation,training,4
+comprehensive evaluation,computational linguistics,4
+computational linguistics,state of the art,4
+case-studies,computational linguistics,5
+collaborative robots,intelligent robots,5
+electronic money,sales,8
+predictive analytics,sales,10
+intelligent agents,personalizations,4
+model-driven,semantics,4
+adult,outcome assessment,6
+adult,randomized controlled trial,11
+electronic health record,male,4
+female,outcome assessment,6
+female,randomized controlled trial,12
+humans,outcome assessment,7
+humans,randomized controlled trial,10
+male,outcome assessment,5
+male,randomized controlled trial,12
+procedures,randomized controlled trial,6
+psychology,randomized controlled trial,4
+higher education,students,8
+augmented reality,immersive,13
+block-chain,machine-learning,5
+commerce,machine-learning,9
+commerce,predictive analytics,5
+immersive,machine-learning,5
+leisure industry,tourism industry,4
+machine-learning,predictive analytics,10
+banking,sales,11
+machine-learning,neural-networks,4
+machine-learning,sales,28
+intelligent agents,knowledge management,4
+libraries,library services,6
+electronic health record,health care,4
+augmented reality,personalizations,5
+e-commerce,sales,21
+electronic commerce,intelligent agents,5
+electronic commerce,reinforcement learnings,4
+electronic commerce,social networking (online),4
+intelligent agents,sales,5
+investments,strategic planning,4
+reinforcement learnings,sales,4
+sales,social networking (online),5
+computational linguistics,reinforcement learnings,6
+reinforcement learnings,semantics,4
+semantics,transformer modeling,4
+education,education computing,9
+education,students,15
+semantics,students,7
+computational linguistics,fine-tuning,5
+computational linguistics,search engines,14
+adult,self care,5
+adult,usability,7
+female,self care,6
+male,self care,6
+male,usability,11
+questionnaire,self care,4
+questionnaire,usability,6
+semi structured interview,usability,4
+adult,diagnosis,7
+adult,interview,6
+female,interview,6
+female,randomized controlled trial (topic),4
+female,reliability,6
+female,training,4
+interview,male,6
+male,randomized controlled trial (topic),4
+male,reliability,6
+male,simulation,4
+male,training,4
+students,visualization,7
+teaching,visualization,4
+automation,autonomous agents,4
+autonomous agents,work-flows,4
+automation,health care,4
+diagnosis,health care,10
+behavior change,physical activity,5
+physical activity,usability,4
+educational robots,students,7
+'current,sales,8
+competition,sales,7
+customer loyalty,sales,7
+'current,multi-modal,4
+curricula,personnel training,6
+education computing,personnel training,4
+personnel training,students,11
+automation,decisions makings,4
+customer satisfaction,customer-service,9
+customer satisfaction,customers' satisfaction,20
+customer satisfaction,sales,30
+customer-service,customers' satisfaction,10
+satisfaction,usability,7
+classification (of information),search engines,5
+e- commerces,model-based opc,4
+e- commerces,search engines,6
+electronic commerce,optimisations,5
+electronic commerce,search engines,8
+diseases,humans,4
+avatar,humans,4
+communication,procedures,7
+education,humans,7
+education,procedures,4
+leisure industry,tourism,6
+sales,tourism,6
+co-creation,creatives,10
+blockchain,machine-learning,4
+machine-learning,random forests,5
+banking,electronic commerce,5
+electronic commerce,predictive analytics,5
+electronic commerce,public relations,7
+humans,patient satisfaction,8
+male,patient satisfaction,10
+intelligent agents,memory architecture,5
+agents,computational linguistics,4
+codes (symbols),computational linguistics,5
+augmented reality,visualization,4
+flow visualization,visualization,5
+computational linguistics,knowledge graph,5
+computational linguistics,knowledge management,7
+knowledge graph,knowledge management,4
+humans,training,4
+computational linguistics,domain specific,6
+e-commerce,search engines,4
+e-learning,electronic commerce,4
+e-learning,search engines,7
+e-learning,semantics,4
+anthropomorphic robots,intelligent robots,5
+adolescent,social media,4
+adult,self concept,5
+adult,social media,10
+anxiety,female,5
+anxiety,humans,5
+anxiety,male,5
+anxiety,psychology,4
+cognition,humans,5
+cognition,questionnaire,4
+depression,female,10
+depression,humans,7
+depression,male,9
+depression,psychology,4
+depression,young adult,4
+female,self concept,8
+female,social media,9
+humans,questionnaire,23
+humans,self concept,4
+male,self concept,7
+male,social media,8
+mental health,psychology,7
+mental health,young adult,7
+psychology,questionnaire,8
+questionnaire,self concept,4
+questionnaire,young adult,8
+social media,young adult,4
+computational linguistics,multi-modal,10
+adult,mental disease,8
+adult,mental disorders,4
+adult,middle aged,27
+female,mental disease,7
+female,mental disorders,4
+female,middle aged,28
+humans,interview,4
+humans,middle aged,24
+interview,middle aged,4
+male,mental disease,6
+male,mental disorders,4
+male,middle aged,26
+mental health,middle aged,7
+middle aged,procedures,9
+middle aged,young adult,7
+commerce,marketing,4
+marketing,sales,4
+optimisations,sales,4
+augmented reality,computational linguistics,4
+computational linguistics,intelligent agents,6
+computational linguistics,model-based opc,16
+cognitive behavioral therapy,female,9
+cognitive behavioral therapy,humans,6
+cognitive behavioral therapy,male,9
+cognitive behavioral therapy,mental health,7
+cognitive behavioral therapy,procedures,4
+cognitive behavioral therapy,randomized controlled trial,7
+ehealth,humans,4
+female,follow up,7
+female,perception,9
+female,psychological well-being,9
+female,social support,5
+follow up,humans,6
+follow up,male,7
+follow up,procedures,4
+humans,perception,9
+humans,psychological well-being,4
+humans,randomized controlled trial (topic),4
+humans,semi structured interview,7
+humans,social support,4
+male,perception,10
+male,psychological well-being,8
+male,social support,5
+mental health,perception,7
+mental health,randomized controlled trial,6
+mental health,randomized controlled trial (topic),5
+mental health,usability,5
+perception,semi structured interview,4
+perception,usability,4
+psychology,semi structured interview,4
+randomized controlled trial,randomized controlled trial (topic),4
+tourism,tourism sectors,8
+personalizations,tourism,5
+communication,mental health,7
+health,mental health,6
+interpersonal communication,mental health,9
+commerce,social networking (online),5
+satisfaction,trust,4
+cognitive load,cognitive loads,4
+tourism,tourism industry,6
+health care,mental health,9
+immersive,metaverse,5
+immersive,metaverses,7
+humans,software,5
+metadata,question answering,5
+procedures,software,4
+codegeneration,codes (symbols),6
+adult,emotional support,4
+adult,health care,6
+adult,health care delivery,4
+adult,internet,10
+adult,patient satisfaction,9
+adult,perception,8
+adult,satisfaction,8
+adult,telemedicine,4
+emotional support,female,4
+emotional support,male,4
+female,health care,6
+female,internet,9
+female,patient satisfaction,8
+female,satisfaction,8
+female,telemedicine,4
+health care,internet,4
+health care,male,7
+health care,medical informatics,4
+health care,perception,4
+health care delivery,telemedicine,5
+internet,male,8
+internet,questionnaire,4
+internet,semi structured interview,4
+internet,telemedicine,4
+male,satisfaction,9
+male,telemedicine,4
+patient satisfaction,perception,4
+patient satisfaction,questionnaire,4
+perception,questionnaire,4
+augmented reality,personalization,5
+'current,automation,4
+'current,teaching,5
+automation,education computing,4
+education,teaching,10
+education computing,teachers',4
+teachers',teaching,8
+humans,satisfaction,7
+satisfaction,young adult,4
+computational linguistics,in contexts,4
+gamification,students,4
+procedures,questionnaire,9
+computational linguistics,forecasting,4
+emotion recognition,face recognition,4
+semantics,teaching,4
+computational linguistics,open source software,6
+creatives,creativity,6
+banking,customer satisfaction,4
+banking,customers' satisfaction,6
+immersive,personalizations,4
+immersive,search engines,4
+health care,humans,7
+humans,internet,6
+humans,medical informatics,4
+internet,middle aged,4
+electronic commerce,machine-learning,6
+electronic commerce,personalization,7
+electronic commerce,personalizations,10
+ethical aspects,machine-learning,4
+machine-learning,personalization,6
+personalization,predictive analytics,4
+personalizations,predictive analytics,6
+electronic commerce,websites,6
+machine-learning,websites,8
+computational linguistics,machine-learning,10
+aged,humans,13
+aged,interpersonal communication,4
+aged,procedures,5
+aged,questionnaire,6
+communication,questionnaire,4
+female,wellbeing,4
+well being,wellbeing,4
+codes (symbols),education computing,4
+customer loyalty,customers' satisfaction,6
+customer loyalty,e- commerces,4
+customer loyalty,electronic commerce,4
+customers' satisfaction,e- commerces,4
+customers' satisfaction,electronic commerce,7
+e- commerces,marketplaces,23
+e- commerces,purchasing,5
+electronic commerce,purchasing,7
+marketplaces,sales,16
+arts computing,creatives,4
+health care delivery,interpersonal communication,4
+transformer,transformers,10
+automation,cost effectiveness,6
+automation,machine-learning,8
+automation,predictive analytics,5
+customer-service,machine-learning,9
+'current,case-studies,4
+context-aware,multi-modal,4
+smart phones,smartphones,6
+object detection,object recognition,7
+education,personnel training,4
+customer support,sales,18
+intent recognition,sales,5
+sales,search engines,5
+algorithm,humans,5
+google+,microsoft,4
+commerce,personalizations,5
+problem solving,problem-solving,6
+employment,students,4
+female,privacy,4
+female,student,8
+male,privacy,4
+male,student,8
+augmented reality,augmented reality (ar),6
+exercise,questionnaire,4
+aged,middle aged,14
+middle aged,psychology,5
+computational linguistics,electronic commerce,6
+sales,semantics,5
+middle aged,questionnaire,9
+customer-service,users' satisfactions,4
+sales,users' satisfactions,7
+domain specific,question answering,5
+commerce,marketing strategy,4
+machine-learning,public relations,4
+marketing strategy,public relations,4
+marketing strategy,sales,9
+automation,students,4
+e-commerce,personalization,4
+e-commerce,personalizations,6
+classification (of information),semantics,5
+adult,cognitive behavioral therapy,8
+communication,randomized controlled trial (topic),4
+exercise,humans,4
+health care personnel,humans,6
+health care personnel,interpersonal communication,4
+health education,humans,5
+health education,interpersonal communication,4
+interpersonal communication,randomized controlled trial (topic),4
+metaverses,personalizations,4
+decisions makings,predictive analytics,4
+computational linguistics,e-learning,4
+e-learning,immersive,6
+customers' satisfaction,e-commerce,6
+humans-robot interactions,microrobots,7
+microrobots,social robots,7
+search engines,websites,4
+question answering,semantics,5
+computational linguistics,personalizations,7
+computational linguistics,embeddings,6
+evaluation,usability,7
+education computing,intelligent tutoring,7
+intelligent tutoring,teaching,6
+immersive,mixed reality,8
+classification (of information),machine-learning,10
+'current,context-aware,5
+e-commerce,marketplaces,13
+computational linguistics,langchain,5
+humans-robot interactions,industrial robots,7
+industrial robots,social robots,4
+intelligent robots,social robots,8
+commerce platforms,sales,6
+customer support,public relations,5
+health care delivery,humans,6
+'current,search engines,4
+commerce platforms,marketplaces,9
+e- commerces,personalizations,5
+adult,student,6
+adult,students,6
+female,students,8
+humans,student,7
+humans,students,11
+male,students,8
+psychology,student,5
+psychology,students,7
+questionnaire,students,4
+student,students,8
+student,young adult,6
+students,young adult,6
+computational linguistics,open-source,4
+humans-robot interactions,multi-modal,5
+intelligent robots,multi-modal,5
+automation,internet of things,7
+internet of things,iot,6
+employment,professional aspects,7
+cognitive behavioral therapy,questionnaire,4
+cognitive behavioral therapy,young adult,4
+questionnaire,randomized controlled trial,4
+randomized controlled trial,young adult,5
+augmented reality,humans,4
+aged,patient satisfaction,4
+middle aged,patient satisfaction,5
+customers' satisfaction,personalizations,5
+mhealth,usability,5
+computational linguistics,statistical tests,4
+automation,public relations,4
+electronic money,marketplaces,8
+immersive,personnel training,4
+e-learning,intelligent tutoring,4
+computation theory,customer satisfaction,4
+computation theory,customers' satisfaction,4
+computation theory,sales,4
+customer loyalty,customer satisfaction,4
+customer satisfaction,e- commerces,6
+customer satisfaction,e-commerce,6
+customer satisfaction,electronic commerce,8
+customer satisfaction,least squares approximations,5
+customer satisfaction,public relations,4
+customers' satisfaction,public relations,4
+electronic commerce,least squares approximations,5
+education,medical education,5
+emotion,outcome assessment,4
+humans,medical education,5
+humans,privacy,4
+students,websites,7
+customer support,customer-service,6
+customer-service,public relations,8
+augmented reality,mixed reality,15
+e-learning,intelligent agents,4
+intelligent agents,students,6
+machine-learning,students,8
+computational linguistics,students,7
+neural-networks,students,4
+computational linguistics,user's preferences,4
+co-creation,creativity,6
+'current,computational linguistics,8
+e- commerces,machine-learning,5
+female,personalized medicine,4
+male,personalized medicine,4
+middle aged,semi structured interview,4
+mental health,satisfaction,5
+humans,self care,4
+procedures,self care,4
+immersive,teaching,4
+computational linguistics,pre-training,4
+mental health,psychoeducation,9
+counseling,female,4
+counseling,male,4
+electronic health record,user-centred,4
+students,teachers',7
+augmented reality,context-aware,4
+intelligent robots,microrobots,8
+customer-service,least squares approximations,5
+e- commerces,electronic money,5
+augmented reality,machine-learning,5
+augmented reality,sales,5
+commerce,customer-service,6
+computational linguistics,websites,4
+curricula,education,4
+education,female,4
+education,male,4
+machine-learning,marketplaces,4
+js,machine-learning,4
+adolescent,emotion,4
+adolescent,mental disease,4
+adolescent,psychoeducation,4
+depression,mental disease,5
+depression,psychoeducation,4
+mental disease,psychoeducation,5
+psychoeducation,semi structured interview,4
+customer care,sales,7
+problem solving,students,4
+adult,psychoeducation,6
+female,psychoeducation,7
+male,psychoeducation,6
+risk perception,students,4
+diseases,mental health,4
+laws and legislation,machine-learning,4
+customer satisfaction,users' satisfactions,4
+machine-learning,social networking (online),6
+customer-service,e-commerce,5
+e-learning,websites,6
+mental health,students,6
+mental health,outcome assessment,4
+self concept,semi structured interview,4
+ethical aspects,laws and legislation,4
+customer-service,marketplaces,4
+e- commerces,websites,4
+computational linguistics,education computing,5
+'current,curricula,4
+'current,students,5
+machine-learning,operational efficiencies,4
+mental health,well being,8
+students,universities,6
+students,university,6
+computational linguistics,translation (languages),5
+electronic health record,mhealth,5
+customer satisfaction,personalizations,7
+psychology,universities,4
+psychology,university,4
+student,universities,5
+student,university,5
+universities,young adult,5
+university,young adult,5
+medical education,students,6
+augmented reality,metaverses,4
+empathy,humans,4
+empathy,mental health,5
+mental health,patient satisfaction,5
+emotion recognition,facial expressions,4
+emotion recognition,social robots,4
+decisions makings,machine-learning,5
+decisions makings,sales,5
+interpersonal communication,patient satisfaction,4
+interpersonal communication,telemedicine,5
+cnn,lstm,4
+electronic health record,mental health,6
+adult,clinical effectiveness,6
+clinical effectiveness,mental health,5
+customer satisfaction,machine-learning,6
+adult,health promotion,4
+adult,social support,5
+behavior change,communication,4
+behavior change,humans,5
+communication,physical activity,4
+health promotion,humans,4
+health promotion,physical activity,4
+humans,physical activity,5
+interpersonal communication,physical activity,4
+marketing strategy,strategic planning,5
+communication,mhealth,5
+female,mhealth,4
+humans,mhealth,9
+interpersonal communication,mhealth,5
+male,mhealth,4
+customers interactions,marketplaces,4
+clinical effectiveness,humans,5
+electronic health record,healthcare,4
+long short-term memory,lstm,4
+ontology,ontology's,5
+diseases,machine-learning,4
+female,physical activity,4
+male,physical activity,4
+clinical effectiveness,female,5
+clinical effectiveness,male,4
+female,usability testing,4
+male,usability testing,4
+mhealth,satisfaction,4
+humans,psychoeducation,4
+ehealth,telehealth,4
+humans,telehealth,5
+covid-19,health care,4
+customer services,sales,6
