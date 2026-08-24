@@ -1,4 +1,4 @@
-# Evolution of User Experience Research in AI-Powered Systems
+# Evolution of User Experience Research in Generative AI Systems
 
 **A bibliometric and topic-modelling analysis of UX research in generative and conversational AI**
 
@@ -182,15 +182,20 @@ Details: [`METHODOLOGY.md`](METHODOLOGY.md).
 
 ## Citation
 
-If you use this repository, please cite the associated article (it will be updateed when published):
+If you use any part of this repository (data, code, figures, or tables), **please cite the associated article**:
+
+> Sangari, M., & Torabi, M. (2026). *Evolution of User Experience Research in Generative AI Systems: A Bibliometric and Topic Modelling Analysis*. Iranian Journal of Information Processing and Management, e739039. https://doi.org/10.22034/jipm.2026.2090404.2229
+
+BibTeX:
 
 ```bibtex
-@article{torabi2026uxai,
-  title   = {Evolution of User Experience Research in AI-Powered Systems: A Bibliometric and Topic Modelling Analysis},
+@article{sangari2026uxai,
+  title   = {Evolution of User Experience Research in Generative AI Systems: A Bibliometric and Topic Modelling Analysis},
   author  = {Sangari, Mahmood and Torabi, Mahsa},
-  journal = {},
+  journal = {Iranian Journal of Information Processing and Management},
   year    = {2026},
-  note    = {Code and data: \url{https://github.com/mahsatorabi/UX_AI_systems}}
+  pages   = {e739039},
+  doi     = {10.22034/jipm.2026.2090404.2229}
 }
 ```
 
